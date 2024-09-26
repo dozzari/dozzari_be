@@ -25,6 +25,7 @@ spring:
 
 server:
   host-url: ${SERVER_HOST_URL}
+  port: ${SERVER_PORT}
 
 jwt:
   secret: ${JWT_SECRET}
